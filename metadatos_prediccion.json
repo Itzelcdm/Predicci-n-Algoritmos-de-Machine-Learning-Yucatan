@@ -1,0 +1,31 @@
+{
+  "fecha_procesamiento": "2025-10-29T16:23:37.412110",
+  "resolucion_metros": 250,
+  "radio_interpolacion_metros": 4000,
+  "potencia_idw": 2,
+  "total_puntos_interpolados": 4957,
+  "categorias_riesgo": {
+    "MUY BAJO": [
+      0,
+      21.174617502467296
+    ],
+    "BAJO": [
+      21.174617502467296,
+      26.97577446322837
+    ],
+    "MEDIO": [
+      26.97577446322837,
+      34.77214001060756
+    ],
+    "ALTO": [
+      34.77214001060756,
+      42.05041388778844
+    ],
+    "MUY ALTO": [
+      42.05041388778844,
+      103.66540985528746
+    ]
+  },
+  "estadisticas_areas": {
+    "MUY BAJO": {
+      "celdas": 
